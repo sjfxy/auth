@@ -5,7 +5,7 @@
 ## Usage
 
 ```
-composer require mix/auth
+composer require sin/auth
 ```
 
 ## License
